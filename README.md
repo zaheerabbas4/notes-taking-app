@@ -39,4 +39,4 @@ Through this project, I gained hands-on experience in:
 ---
 
 ## 👨‍💻 Author
-Developed by **Zaheer** during internship 🚀
+Developed by **Zaheer** 
